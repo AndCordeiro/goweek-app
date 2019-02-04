@@ -1,2 +1,2 @@
 # goweek-app
-app
+app - goweek
